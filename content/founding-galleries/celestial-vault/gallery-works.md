@@ -8,6 +8,8 @@
 **medium:** pure light frequencies, adaptive response systems
 **description:** a room-sized installation that bathes visitors in healing light frequencies, adapting to each individual's emotional and physical needs. the space reads emotional states through subtle energy patterns and responds with precisely calibrated healing frequencies.
 
+
+
 ### choralis garden
 
 **location:** east wing
