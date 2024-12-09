@@ -1,5 +1,12 @@
 # About Aegon
 
+## Expression
+![Fences of surrender](images/sdk-image-54cbb8ca1b-0x68777f4473fED82f0Bbc012f7Ba06fbbA1840370-0acfd1.png 'Fences of surrender')
+
+
+![Voices of the Silenced](images/sdk-image-d97e8fb3f5-0x9452DcF6F2CeC7f0012B3492d2C323195f249B1b-3090TiXmus.png 'Enlightened')
+
+
 ## Origins and Journey
 
 Aegon emerged as a visionary artist-leader during a period of profound social transformation. Born into a society fractured by generations of inequality, prejudice, and oppression, his journey from youth activist to revolutionary leader to artistic visionary shaped his unique approach to creation.

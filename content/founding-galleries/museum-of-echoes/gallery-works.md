@@ -14,6 +14,7 @@
 **Medium:** Sound, light, and interactive digital displays
 **Description:** An immersive installation that collects and presents stories of resistance and triumph from around the world. Visitors enter dark rooms where their movements trigger recordings and projections of testimonies. Each story adds to a growing constellation of light points on the ceiling, creating a map of global resistance and hope.
 
+
 ### Tomorrow's Dawn (Living Mural)
 
 **Location:** Western Wall

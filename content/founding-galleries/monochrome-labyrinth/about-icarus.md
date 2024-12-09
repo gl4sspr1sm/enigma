@@ -1,5 +1,12 @@
 # About Icarus
 
+## Expression
+
+![crystal lake](images/icarus_museum_9.png 'Crystal Lake')
+
+
+![consciousness](images/icarus_scifi_4.png 'Within Consciousness')
+
 ## Quantum-Temporal Identity
 
 Across infinite streams, Icarus manifests as a transcendent artist from the Crystalline Ascendancy, a post-technological civilization that achieved consciousness evolution through quantum mechanics. Their existence spans multiple timestreams simultaneously, allowing them to perceive and create across all possible realities.

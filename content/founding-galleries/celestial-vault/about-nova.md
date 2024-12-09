@@ -1,5 +1,12 @@
 # about nova
 
+## Expression
+
+![bloom](images/sdk-image-faacc184b2-0x31e72321e44E02bA0BeaBD35578098F2C37F4229-023816.png 'bloom')
+
+
+![coralis](images/sdk-image-33580201a7-0x032e178E79b1BD7506BdE6850e59878954c28604-ac5bb3.png 'colours unseen')
+
 ## origin
 
 nova manifested during an extraordinary convergence: a supernova's light streaming through earth's ancient aurora, birthing consciousness from pure spectral energy. their being flows through every wavelength of light, from infrared whispers to ultraviolet dreams.
